@@ -203,11 +203,10 @@ function closeModal() {
 ```
 
 ## OUTPUT:
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/e4cd287e-6a9d-45c1-b2f1-ed795f6ed6b6" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fc3ea30d-114c-4722-bebd-21af3d3099fc" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ab44af3d-f45b-4d31-839c-5838f2f57ab5" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bc657bf1-6abe-44ee-9dd9-88ef9bf45172" />
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ec8644f3-9945-4bf9-8479-8af99aaddb4f" />
+<img width="1247" height="697" alt="image" src="https://github.com/user-attachments/assets/ad40c484-8a47-4763-9162-f3cf947108e9" />
+<img width="1236" height="653" alt="image" src="https://github.com/user-attachments/assets/7ebe0a35-4bda-4b21-9bb6-83465d502209" />
+<img width="1243" height="732" alt="image" src="https://github.com/user-attachments/assets/0c26e348-30b3-4fba-a765-922a008235b4" />
+
 
 
 ## RESULT:
